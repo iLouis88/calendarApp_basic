@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574079819173",
+    "project_id": "appflutter-nvt",
+    "storage_bucket": "appflutter-nvt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574079819173:android:05a4849e273e7fce435c4c",
+        "android_client_info": {
+          "package_name": "com.example.calendar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDpUhftx8DTpL8UuoNG7hab85rOmGHPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
